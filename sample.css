@@ -150,14 +150,14 @@ footer {
 
 
 
-/* map */
+
 
 
 header {
-    /* background-color: orange; */
+  
     color: black;
     text-align: center;
-    /* padding: 0.5rem 0; */
+  
 }
 
 main {
@@ -192,20 +192,15 @@ main {
 .map {
     height: 400px;
     width: 90%;
-    margin-left: 10px;
+    margin: 0 auto;
     padding: 5px;
     border: 1px solid black;
     border-radius: 10px;
     box-shadow: 1px 1px white;
+    overflow: hidden;
 }
 
-/* .description {
-    margin-top: 1rem;
-    padding: 1rem;
-    border: 1px solid black;
-    border-radius: 4px;
-    background-color: black;
-}  */
+
 
 
 
